@@ -1,4 +1,8 @@
+package InterfaceVSAbstarct;
  // Interface
+
+import Animal;
+
 interface Animal {
     void sound();     
 }

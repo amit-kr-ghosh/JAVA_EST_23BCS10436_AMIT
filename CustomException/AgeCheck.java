@@ -1,3 +1,4 @@
+package CustomException;
 // Custom Exception Class
 class InvalidAgeException extends Exception {
     public InvalidAgeException(String message) {
